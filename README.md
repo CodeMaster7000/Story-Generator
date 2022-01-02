@@ -1,0 +1,2 @@
+# Story-Generator
+A Story Generator I made in Python 3 after completing a tutorial. Credit to GeeksforGeeks for the tutorial at https://www.geeksforgeeks.org/how-to-build-a-random-story-generator-using-python/. It is an amazing computer science portal, and it has helped me learn Python programming, as well as giving me inspiration for some of my projects. Run `python3 Story Generator.py` in a terminal if you have Python 3.
